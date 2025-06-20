@@ -27,6 +27,7 @@ This project implements LAFM-Net (Learnable Adaptive Feature Masking Network) fo
 
 ###  CIC-IDS-2018
 https://www.unb.ca/cic/datasets/ids-2018.html
+https://registry.opendata.aws/cse-cic-ids2018/
 Download the CSE-CIC-IDS-2018 Dataset using AWS CLI
 
 ```bash
@@ -143,6 +144,7 @@ The model provides:
 If you use this code or the datasets:
 
 **For CIC-IDS-2018:**
+https://registry.opendata.aws/cse-cic-ids2018/
 ```
 Sharafaldin, Iman, Arash Habibi Lashkari, and Ali A. Ghorbani. 
 "Toward generating a new intrusion detection dataset and intrusion traffic characterization." 

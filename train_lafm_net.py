@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
 """
 LAFM-Net Adaptive Feature Masking Network on the CIC-IDS-2018 dataset
+
+- Multichannel representation of tabular flow data
+- Simplified U-Net for feature enhancement
+- Learnable adaptive feature masking
+- 1D CNN classifier
+- Focal loss for imbalance handling
+- Early stopping + validation tracking
 """
 import pandas as pd
 import numpy as np

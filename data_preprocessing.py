@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""data_preprocessing.ipynb
-"""
-
 !pip install fastai
 
 #  Mount Drive and Import Libraries in colab
